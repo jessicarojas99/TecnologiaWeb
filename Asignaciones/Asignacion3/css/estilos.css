@@ -1,0 +1,58 @@
+.nav
+{
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 100px;
+    margin-right: 100px;
+} 
+.nav a{
+    float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+margin-bottom:20px;
+margin-left: 40px;
+}
+.nav a:hover
+{
+    background-color: #ddd;
+    color: black;
+}
+#logo
+{
+float: left;
+width: 70px;
+padding: 14px 16px;
+
+}
+.Inicio
+{
+    width: 25%;
+    margin:10px auto;
+    float: left;
+    
+}
+.crc
+{
+    text-align: center;
+    font-family: cursive;
+    background-color: #FFCF3D;
+    font-size: 40px;
+    
+}
+.crcp{
+    text-align: justify;
+    font-size: 20px;
+    float: left;
+    
+}
+
+.lgnimg
+{
+    width: 25%;
+    margin:10px auto;
+    float: right;
+}
+
