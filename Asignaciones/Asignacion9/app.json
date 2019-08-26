@@ -1,0 +1,23 @@
+{
+  "squadName": "Cochabamba-Turistica",
+  
+  "members": 
+  [
+    {
+     "nombre":"Cristo de la Concordia",
+     "descripcion":"Lugar Turistico mas conocido",
+     "Ubicacion":"Avenida de la concordia"
+      
+    },
+    {
+      "nombre":"Laguna de la angostura",
+      "descripcion":"Laguna artificial de Bolivia",
+        "Ubicacion":"Provincia Esteban Arze"
+    },
+    {
+        "nombre":"Tarata",
+        "descripcion":"Capital de la primera seccion municipal",
+          "Ubicacion":"Esteban Arze-Tarata"
+    }
+  ]
+}
