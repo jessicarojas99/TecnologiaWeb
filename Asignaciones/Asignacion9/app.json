@@ -1,7 +1,5 @@
 {
-  "squadName": "Cochabamba-Turistica",
-  
-  "members": 
+  "localidades": 
   [
     {
      "nombre":"Cristo de la Concordia",
@@ -18,6 +16,16 @@
         "nombre":"Tarata",
         "descripcion":"Capital de la primera seccion municipal",
           "Ubicacion":"Esteban Arze-Tarata"
-    }
+    },
+    {
+      "nombre":"Villa Tunari",
+      "descripcion":"El clima es lluvioso y calido por lo cual resulta una lluvia tibia",
+        "Ubicacion":"Provincia Chapare"
+  },
+  {
+    "nombre":" Parque Nacional Carrasco",
+    "descripcion":"Situada en la cuenca amazonica del chapare,se constituye el paraiso del explorador y los aventureros que practican deportes extremos como rafting, canopy,rappel,parapente y otros ",
+      "Ubicacion":"Sur de Chimore"
+}
   ]
 }
