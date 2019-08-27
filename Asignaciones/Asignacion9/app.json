@@ -26,11 +26,13 @@
     "nombre":" Parque Nacional Carrasco",
     "descripcion":"Situada en la cuenca amazonica del chapare,se constituye el paraiso del explorador y los aventureros que practican deportes extremos como rafting, canopy,rappel,parapente y otros ",
       "Ubicacion":"Sur de Chimore"
-}
+  }
   ],
   "faunayfLora":
+  [
   {
-    "conceptofau":
+    "conceptofau":"holi"
   }
+  ]
 
 }
