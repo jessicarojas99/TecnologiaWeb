@@ -9,7 +9,7 @@
     },
     {
       "nombre":"Laguna de la angostura",
-      "descripcion":"La laguna La Angostura es una laguna artificial en Bolivia, ubicada en el municipio de Arbieto de la provincia de Esteban Arze en el departamento de Cochabamba. Su nombre oficial es «Represa México», y está ubicada a 17 km de la ciudad de Cochabamba, a una altura de 2700 m sobre el nivel del mar",
+      "descripcion":"La laguna La Angostura es una laguna artificial en Bolivia, ubicada en el municipio de Arbieto de la provincia de Esteban Arze en el departamento de Cochabamba. Su nombre oficial es Represa México, y está ubicada a 17 km de la ciudad de Cochabamba, a una altura de 2700 m sobre el nivel del mar",
         "Ubicacion":"Provincia Esteban Arze"
     },
     {
@@ -27,5 +27,10 @@
     "descripcion":"Situada en la cuenca amazonica del chapare,se constituye el paraiso del explorador y los aventureros que practican deportes extremos como rafting, canopy,rappel,parapente y otros ",
       "Ubicacion":"Sur de Chimore"
 }
-  ]
+  ],
+  "faunayfLora":
+  {
+    "conceptofau":
+  }
+
 }
