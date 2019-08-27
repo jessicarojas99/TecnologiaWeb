@@ -7,6 +7,11 @@
       
     },
     {
+        "nombre":"Laguna de la angostura",
+        "descripcion":"La laguna La Angostura es una laguna artificial en Bolivia, ubicada en el municipio de Arbieto de la provincia de Esteban Arze en el departamento de Cochabamba. Su nombre oficial es Represa México, y está ubicada a 17 km de la ciudad de Cochabamba, a una altura de 2700 m sobre el nivel del mar",
+          "Ubicacion":"Provincia Esteban Arze"
+      },
+    {
         "nombre":"Tarata",
         "descripcion":"Tarata, es una ciudad boliviana, capital de la Provincia Esteban Arze y capital de la primera sección municipal, situada en el Sur del departamento de Cochabamba. Es conocida también como la «Villa Colonia",
           "Ubicacion":"Esteban Arze-Tarata"
