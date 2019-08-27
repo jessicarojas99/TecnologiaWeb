@@ -3,23 +3,23 @@
   [
     {
      "nombre":"Cristo de la Concordia",
-     "descripcion":"Lugar Turistico mas conocido",
+     "descripcion":"El Cristo de la Concordia es una colosal estatua monumental de Jesucristo, que se encuentra sobre el cerro de San Pedro en la ciudad de Cochabamba, Bolivia, a una altura de 265 metros sobre la ciudad. La estatua mide 34,20 metros de altura, sobre un pedestal de 6,24 metros, con una altura total de 40,44 m",
      "Ubicacion":"Avenida de la concordia"
       
     },
     {
       "nombre":"Laguna de la angostura",
-      "descripcion":"Laguna artificial de Bolivia",
+      "descripcion":"La laguna La Angostura es una laguna artificial en Bolivia, ubicada en el municipio de Arbieto de la provincia de Esteban Arze en el departamento de Cochabamba. Su nombre oficial es «Represa México», y está ubicada a 17 km de la ciudad de Cochabamba, a una altura de 2700 m sobre el nivel del mar",
         "Ubicacion":"Provincia Esteban Arze"
     },
     {
         "nombre":"Tarata",
-        "descripcion":"Capital de la primera seccion municipal",
+        "descripcion":"Tarata, es una ciudad boliviana, capital de la Provincia Esteban Arze y capital de la primera sección municipal, situada en el Sur del departamento de Cochabamba. Es conocida también como la «Villa Colonia",
           "Ubicacion":"Esteban Arze-Tarata"
     },
     {
       "nombre":"Villa Tunari",
-      "descripcion":"El clima es lluvioso y calido por lo cual resulta una lluvia tibia",
+      "descripcion":"El clima es lluvioso y calido por lo cual resulta una lluvia tibia. Villa Tunari es una localidad y municipio de la región central de Bolivia, ubicado en la Provincia del Chapare del departamento de Cochabamba. La localidad está a 160 km al noreste de la ciudad de Cochabamba, con la que está unida por carretera",
         "Ubicacion":"Provincia Chapare"
   },
   {
