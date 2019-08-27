@@ -5,6 +5,21 @@
      "descripcion":"El Cristo de la Concordia es una colosal estatua monumental de Jesucristo, que se encuentra sobre el cerro de San Pedro en la ciudad de Cochabamba, Bolivia, a una altura de 265 metros sobre la ciudad. La estatua mide 34,20 metros de altura, sobre un pedestal de 6,24 metros, con una altura total de 40,44 m",
      "Ubicacion":"Avenida de la concordia"
       
-    }
+    },
+    {
+        "nombre":"Tarata",
+        "descripcion":"Tarata, es una ciudad boliviana, capital de la Provincia Esteban Arze y capital de la primera sección municipal, situada en el Sur del departamento de Cochabamba. Es conocida también como la «Villa Colonia",
+          "Ubicacion":"Esteban Arze-Tarata"
+    },
+    {
+        "nombre":"Villa Tunari",
+        "descripcion":"El clima es lluvioso y calido por lo cual resulta una lluvia tibia. Villa Tunari es una localidad y municipio de la región central de Bolivia, ubicado en la Provincia del Chapare del departamento de Cochabamba. La localidad está a 160 km al noreste de la ciudad de Cochabamba, con la que está unida por carretera",
+          "Ubicacion":"Provincia Chapare"
+    },
+    {
+      "nombre":" Parque Nacional Carrasco",
+      "descripcion":"Situada en la cuenca amazonica del chapare,se constituye el paraiso del explorador y los aventureros que practican deportes extremos como rafting, canopy,rappel,parapente y otros ",
+        "Ubicacion":"Sur de Chimore"
+  }
   ]
 }
