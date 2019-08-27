@@ -56,6 +56,63 @@
     "ejemplos":"Productos maderables. La cara, El cedro, El paquio, El serebo, etc. Productos no maderables. El algodón, La goma, La palmera, El palmito, El café. La coca, El té, La manzanilla, etc. Granos. El arroz, El maíz, La quinua, El trigo, etc. Frutas. El plátano. La uva. La pina, La manzana, El durazno, La papaya, La naranja, La mandarina, La lima. El limón, El membrillo, etc. Verduras. La zanahoria, La cebolla, El tomate, El pimentón, La haba, La arveja, La acelga, El apio. La vainilla, etc. También tenemos los productos como. La papa, La oca, La paraliza, etc."
   
   }
+  ],
+  "Gastronomia":
+  [
+    {
+      "nombre":"Aji de Patas",
+      "concepto":"Este plato lleva arroz, papas blancas y abundante ahogado, en el cual está la de carne que son parte de las patas de la res, arvejas que son cocidas con ají colorado molido dentro del ahogado."
+
+    },
+    {
+      "nombre":"Chank'a de Pollo",
+      "concepto":"Este plato lleva pollo, papas y habas como ingredientes principales. Dependiendo de la cantidad de caldo, puede ser también una sopa. La variante es usar chuño en lugar de papas o adicionarlo para hacerlo más apetecible."
+    },
+    {
+      "nombre":"Charque",
+      "concepto":"El charque es básicamente la carne, ya sea de llama o de res, que ha pasado por un proceso de deshidratación expuesta al sol por varios días cubierta de sal. Se trata de un plato ancestral."
+    },
+    {
+      "nombre":"Chicharron",
+      "concepto":"El chicharrón es uno de los platos típicos de Cochabamba que se prepara en grandes peroles acompañado de mote, chuño, y una rica y pincante llajwa. En el valle este plato suele ser acompañado por una tutuma de chicha (bebida fermentada de maíz)."
+    },
+       {
+          "nombre":"Chorizo Criollo",
+          "concepto":"Este plato es servido con: mote de maíz pelado o trigo pelado, también puede ser con choclo, ensalada de tomate, cebolla y lechuga, pan tostado y los chorizos criollos. Se puede acompañar con llajwua."
+
+        },
+        {
+          "nombre":"Escabeche",
+          "concepto":"El escabeche es un plato que se sirve frío y consta de cuero de chancho bañados con vinagre, aceite y agua. Se acompaña con zanahorias, cebollas, ajíes. Se sirve opcionalmente acompañado de pan y mote de maíz."
+        },
+        {
+          "nombre":"Fideos uchu",
+          "concepto":"También conocido como Ají de Fideo, este delicioso plato lleva como base fideo, papa, carne de res picada o alguna variante o carne de pollo, a lo que se adiciona verduras como arvejas, habas y parar finalmente decorar un poco de perejil picado."
+        },
+        {
+          "nombre":"lapping",
+          "concepto":"Este plato consiste en el pecho de vaca asado a la sartén acompañado con mote de habas, choclo, solterito y papa cocida con cáscara, abundante ensalada y ají molido ( uchu llajwa) o salsa cruda."
+        },
+        {
+          "nombre":"Pique",
+          "concepto":"El Pique Macho es un plato cochabambino muy popular que consiste en trozos de carne de res en su jugo y salchicha fritas acompañados de papas fritas, huevo, rodajas de pimiento y tomate. Se adiciona mayonesa y otras salsas para acompañar."
+        },
+        {
+          "nombre":"Puchero",
+          "concepto":"Esta sopa, que es una mezcla de sabores, contiene tres tipos de carnes: pollo, res y cordero, además de frutas como el durazno, manzana y pera, adicionando también verduras: zanahoria, papa, nabo, pimiento morrón, perejil y, si se desea, choclo. "
+        },
+        {
+          "nombre":"Sillpancho",
+          "concepto":"El nombre de este plato muy típico de Cochabamba viene del quechua Silpanch'u, que significa: carne delgada o aplastada y consiste justamente de un pedazo de carne aplanado acompañada por arroz, papas cocidas y doradas, salsa cruda con locotos y huevo frito."
+        },
+        {
+          "nombre":"Sopa de Mani",
+          "concepto":"La sopa de maní es una de las más deliciosas y tradicionales de Bolivia. Lleva como base maní, arroz, arvejas y papas. Usualmente va acompañada de trozos de carne o pollo."
+        }
+
+
+
+
   ]
 
 }
