@@ -31,7 +31,30 @@
   "faunayfLora":
   [
   {
-    "conceptofau":"holi"
+    "nombre":"Mamiferos",
+    "concepto":"Las investigaciones realizadas hasta la fecha registran 139 especies de mamíferos ",
+    "ejemplos":" jaguar(Panthera onca), puma (felis concolor) anta (tapirus terrestris), chancho de tropa (Tayassu tajacu), marimono (Áteles belzebuth), venado (Mazama americana), y especies raras como el perrito de monte (Speothos venaticus), borochi (Chrysocyon brachyurus), gama (Ozotoceros bezoartícus), ciervo de los pantanos (Odocoileus dicotomus), bufeo (Innia geoffrensis), londra (Pteronura brasilensis), entre otras."
+  },
+  {
+    "nombre":"aves",
+    "concepto":"Se han registrado 617 especies (20% de las aves de Sudamérica) pero se estima que este número aumentará cuando todas las migrantes y visitantes ocasionales sean incorporadas a la lista.",
+    "ejemplos":"pava (Aburría pipile), paraba (Ara ararauna), loro (Aratinga leucophtalmus), tucán (Ramphastos toco), halcón (Falco parverius), perdiz (Cripturellus undulatus), bato (Jabirú mycteria), pato (Dendrocygna autamnalis), garza (Syrigma sibilatrix) martín pescador y otras. Se encuentran pequeñas aves endémicas de la región como ser la Sporophila nigrorufa, aves raras sobresalientes como el águila arpía (Harpía harpjya o, el piyo (Rhea americana)."
+  },
+  {
+    "nombre":"reptiles",
+    "concepto":"El Parque registra 74 especies de reptiles",
+    "ejemplos":"caimán negro (Melanosuchus niger), tortuga de tierra (Geochelone), sicurí (Eunectes notaeus), tataruga (Podocnemis expansa), cascabel púa (Lachesis muta), cascabel chonono (Crotalus durlssus), iguana, etc. "
+  },
+  {
+    "nombre":"peces",
+    "concepto":"La fauna piscícola en la zona tropical de este departamento disminuyó ostensiblemente debido a una serie de factores, como la baja en el nivel de las aguas, la contaminación y otros factores hídricos y medioambientales.",
+    "ejemplos":"La pesca en cualquiera de los ríos zona donde abundan surubí, pacú, doradillo, sábalo, blanquillo y bagre, que hacen gran bonanza para el pescador."
+  },
+  {
+    "nombre":"Flora",
+    "concepto":"El departamento de Cochabamba tiene un alto nivel de diversidad biológica, el cual está directamente relacionado con el grado extraordinario de diversidad de hábitats. ",
+    "ejemplos":"Productos maderables. La cara, El cedro, El paquio, El serebo, etc. Productos no maderables. El algodón, La goma, La palmera, El palmito, El café. La coca, El té, La manzanilla, etc. Granos. El arroz, El maíz, La quinua, El trigo, etc. Frutas. El plátano. La uva. La pina, La manzana, El durazno, La papaya, La naranja, La mandarina, La lima. El limón, El membrillo, etc. Verduras. La zanahoria, La cebolla, El tomate, El pimentón, La haba, La arveja, La acelga, El apio. La vainilla, etc. También tenemos los productos como. La papa, La oca, La paraliza, etc."
+  
   }
   ]
 
