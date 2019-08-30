@@ -1,0 +1,184 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0%;
+}
+
+#logo img
+{
+    position:absolute;
+    height:80px;
+    width:80px;
+    top: 30px;
+    left : 470px;
+    z-index: 1;
+}
+#titulo
+{
+    text-align: center;
+    padding-top: 15px;
+
+}
+header
+{
+    background-color:#08C4E4;
+}
+.navigation
+{
+    background-color: #696F70;
+    font-size: 18px;
+    font-family: cursive;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 40px;
+    
+}
+.navigation a:first-child
+{
+    display: none;
+}
+.navigation a
+{
+    align-self: center;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    padding: 16px;
+    text-decoration: none;
+    margin-left: 0px;
+}
+.navigation a:hover
+{
+    background-color:cornflowerblue;
+    color: #000000;
+}
+.tabla1 h3
+{
+    padding-bottom: 3px;
+}
+.tabla1
+{
+    background-color: #43CEDE;
+    position:absolute;
+    height:160px;
+    width:300px;
+    top: 270px;
+    left : 200px;
+    z-index: 1;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+.tabla1 table {
+    height:100px;
+    width:250px;
+    border: 1px solid #000;
+    margin-top: -20px;
+    margin-left: 28px;
+    border-collapse: collapse;
+ }
+ tr, td {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 3px;
+    border-collapse: collapse;
+    
+
+ }
+.tabla2 table
+{
+    height:100px;
+    width:600px;
+    border: 1px solid #000;
+    margin: 40px;
+    margin-left: 240px;
+    border-collapse: collapse;
+}
+
+.tabla2  tr, th {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 3px;
+    border-collapse: collapse;   
+
+ }
+ .tabla2 th{
+     background-color:darkblue;
+     color: white;
+     font-size: 20px;
+     
+ }
+ .tabla2 h3
+ {
+     margin-bottom: 0px;
+ }
+ hr
+ {
+     margin: 0px;
+ }
+ article
+ {
+     background-color: #08C4E4;
+ }
+ article h2
+ {
+     font-family: cursive;
+     padding-top: 50px;
+ }
+ article img
+ {
+     float: right;
+     width: 40%;
+     margin: 20px;
+ }
+ article p
+ {
+     text-align: justify;
+     font-size: 20px;
+     margin: 25px;
+     padding-bottom: 30px;
+     
+ }
+ .contact img
+ {
+     float: left;
+     margin:25px;
+     margin-left: 60px;
+     margin-right: 50px;
+ }
+ .contact
+ {
+     background-color: #08C4E4;
+ }
+ .contact h6
+ {
+     font-size: 20px;
+     padding-top: 50px;
+     margin-bottom: 10px;
+     font-family: Arial, Helvetica, sans-seri-topf;
+ }
+ .contact hr
+ {
+    margin: 0px;
+ }
+ .contact p
+ {
+     text-align: left;
+     font-size: 20px;
+     margin: 25px;
+     padding-bottom: 30px;
+ }
+ footer
+ {
+     background-color: #696F70;
+ }
